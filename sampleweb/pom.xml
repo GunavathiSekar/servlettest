@@ -4,9 +4,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 
 <modelVersion>4.0.0</modelVersion>
 
-<groupId>com.kg.webAutomation</groupId>
+<groupId>com.kg.sampleweb</groupId>
 
-<artifactId>webAutomation</artifactId>
+<artifactId>sampleweb</artifactId>
 
 <packaging>war</packaging>
 
@@ -18,7 +18,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 <properties>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
-     <!-- <failOnMissingWebXml>false</failOnMissingWebXml> -->
+     <failOnMissingWebXml>false</failOnMissingWebXml>
 </properties>
 <dependencies>
 <dependency>
